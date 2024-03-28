@@ -8,6 +8,7 @@ header {
   height: 80px;
   width: 100%;
   background-color: rgb(201, 122, 122);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 nav {
@@ -15,6 +16,7 @@ nav {
   background-color: rgb(252, 164, 164);
   margin-left: 10px;
   margin-right: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 article {
@@ -23,6 +25,7 @@ article {
   width: 69%;
   background-color: rgb(40, 236, 217);
   margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 /* Adjustments for .section */
@@ -31,6 +34,7 @@ article {
   margin-left: 10px;
   margin-right: 10px;
   height: 480px;
+ 
 }
 
 /* Adjustments for section */
@@ -38,6 +42,7 @@ section {
   background-color: rgb(204, 215, 149);
   height: 130px;
   margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 /* section{
@@ -62,6 +67,7 @@ aside {
   width: 28%;
   background-color: rgb(204, 170, 205);
   margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 .aa {
@@ -73,4 +79,5 @@ footer {
   background-color: rgb(137, 235, 135);
   margin: 10px;
   height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
