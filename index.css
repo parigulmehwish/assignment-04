@@ -1,0 +1,76 @@
+.header {
+  margin: 10px;
+}
+h4 {
+  padding-left: 20px;
+}
+header {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(201, 122, 122);
+}
+
+nav {
+  height: 30px;
+  background-color: rgb(252, 164, 164);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+article {
+  float: left;
+  height: 500px;
+  width: 69%;
+  background-color: rgb(40, 236, 217);
+  margin: 10px;
+}
+
+/* Adjustments for .section */
+.section {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 480px;
+}
+
+/* Adjustments for section */
+section {
+  background-color: rgb(204, 215, 149);
+  height: 130px;
+  margin: 10px;
+}
+
+/* section{
+    background-color: rgb(204, 215, 149);
+    height: 135px;
+    margin:10px; 
+    
+}
+
+.section{
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    heigt:480px;
+
+
+} */
+
+aside {
+  float: right;
+  height: 500px;
+  width: 28%;
+  background-color: rgb(204, 170, 205);
+  margin: 10px;
+}
+
+.aa {
+  margin-top: 2px;
+}
+
+footer {
+  clear: both;
+  background-color: rgb(137, 235, 135);
+  margin: 10px;
+  height: 50px;
+}
